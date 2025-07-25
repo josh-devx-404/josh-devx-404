@@ -8,7 +8,7 @@ I'm currently learning how to build clean and responsive websites using HTML, Ta
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josh-devx-404&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 - HTML, CSS, and JavaScript
