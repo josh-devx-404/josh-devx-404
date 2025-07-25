@@ -25,7 +25,7 @@ I'm currently learning how to build clean and responsive websites using HTML, Ta
 - Understanding Git and version control
 - Building confidence by making small things every day
 
----
+--
 
 > Building quietly. Improving slowly.  
 > You don't have to be great to start — but you have to start to be great.
