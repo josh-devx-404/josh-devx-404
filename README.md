@@ -34,5 +34,5 @@ I'm currently learning how to build clean and responsive websites using HTML, Ta
 > You don't have to be great to start — but you have to start to be great.
 
 ## 📫 How to reach me
-📧 [joshocampo200529@gmail.com] 
+📧 [josh.ocampo200529@gmail.com] 
 
