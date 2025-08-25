@@ -1,4 +1,4 @@
-# Hi, I'm Josh 👋  
+# Hi, I'm Josh
 I'm currently learning how to build clean and responsive websites using HTML, Tailwind CSS, JavaScript, PHP. I enjoy working on small projects and experimenting with new tools as I grow.
 
 ## 🧰 Tech Stack
