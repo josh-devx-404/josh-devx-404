@@ -22,7 +22,6 @@ I'm currently learning how to build clean and responsive websites using HTML, Ta
 - Git & GitHub basics
 - React (early stage)
 - Web Design & UI/UX Fundamentals
-- Next.Js
   
 ## 📁 My Focus Right Now
 - Learning how to structure real-world projects
